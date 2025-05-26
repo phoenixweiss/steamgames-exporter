@@ -4,6 +4,7 @@
     "apikey",
     "appinfo",
     "argparse",
+    "Bumpster",
     "celerybeat",
     "Connor",
     "Cython",
